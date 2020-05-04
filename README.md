@@ -1,4 +1,4 @@
-# みんなでテイクアウトMAP <開発版>
+# みんなでテイクアウトMAP <かわさき版>
 
 ## 概要と目的
 * OverPass APIでOpenStreetMapのテイクアウト/デリバリー施設を抽出して地図に表示するツール
@@ -60,3 +60,14 @@
 ## 連絡先
 * K.Sakanoshita (http://www.netfort.gr.jp/~saka/)
 * E-mail: saka@netfort.gr.jp / twitter: @K_Sakanoshita / facebook: K.Sakanoshita
+
+### かわさき版 謝辞
+
+* みんなでテイクアウトMAP <さいたま版>
+  - [さいたま版サーバー](https://otkzh.github.io/takeaway/)
+  - [GitHub](https://github.com/otkzh/takeaway)
+
+* みんなでテイクアウトMAP <かわさき版>
+  - [かわさき版サーバー](https://openkawasaki.github.io/takeaway/)
+  - [GitHub](https://github.com/openkawasaki/takeaway/)
+  - オープン川崎 /Code for Kawasaki (https://www.openkawasaki.org/)
